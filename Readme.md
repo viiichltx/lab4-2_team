@@ -8,11 +8,11 @@
 </figure>
 
 
-### ลำดับที่ 2 ??? Sec 3 Group 3
-#### Username: ???
+### ลำดับที่ 2 นายสุรบดินทร์ ศรีธรรมมา Sec 3 Group 3
+#### Username: surabodinsss
 #### รับผิดชอบในส่วนของ Paragraphs 7 - 11
 <figure>
-    <img src="./media/???.jpg" width="200" height="200">
+    <img src="./media/Surabodin.jpg" width="200" height="200">
 </figure>
 
 
