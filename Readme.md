@@ -4,7 +4,7 @@
 #### Username: viiichltx
 #### รับผิดชอบในส่วนของ Paragraphs 1 - 6
 <figure>
-    <img src="./profile_team/chalita.jpg" width="200" height="250">
+    <img src="./media/chalita.jpg" width="200" height="250">
 </figure>
 
 
@@ -12,7 +12,7 @@
 #### Username: ???
 #### รับผิดชอบในส่วนของ Paragraphs 7 - 11
 <figure>
-    <img src="./profile_team/???.jpg" width="200" height="200">
+    <img src="./media/???.jpg" width="200" height="200">
 </figure>
 
 
@@ -20,7 +20,7 @@
 #### Username: ???
 #### รับผิดชอบในส่วนของ Paragraphs 12 - 16
 <figure>
-    <img src="./profile_team/???.jpg" width="200" height="200">
+    <img src="./media/???.jpg" width="200" height="200">
 </figure>
 
 
@@ -28,7 +28,7 @@
 #### Username: ???
 #### รับผิดชอบในส่วนของ Paragraphs 17 - 21
 <figure>
-    <img src="./profile_team/???.jpg" width="200" height="200">
+    <img src="./media/???.jpg" width="200" height="200">
 </figure>
 
 
@@ -36,7 +36,7 @@
 #### Username: ???
 #### รับผิดชอบในส่วนของ Paragraphs 22 - 26
 <figure>
-    <img src="./profile_team/???.jpg" width="200" height="200">
+    <img src="./media/???.jpg" width="200" height="200">
 </figure>
 
 
