@@ -2,7 +2,7 @@
 #### Username: viiichltx
 #### รับผิดชอบในส่วนของ Paragraphs 1 - 6
 <figure>
-    <img src="./profile_team/chalita.jpg" width="200" height="200">
+    <img src="./profile_team/chalita.jpg" width="200" height="250">
 </figure>
 
 
