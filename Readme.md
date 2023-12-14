@@ -20,7 +20,7 @@
 #### Username: Phongpanot
 #### รับผิดชอบในส่วนของ Paragraphs 12 - 16
 <figure>
-    <img src="./media/Phongpanot.jpg" width="200" height="200">
+    <img src="./media/Phongpanot.jpg" width="200" height="250">
 </figure>
 
 
