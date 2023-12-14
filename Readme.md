@@ -16,11 +16,11 @@
 </figure>
 
 
-### ลำดับที่ 3 ??? Sec 3 Group 3
-#### Username: ???
+### ลำดับที่ 3 นายพงศ์ปณต พร้อมสันเทียะ Sec 3 Group 3
+#### Username: Phongpanot
 #### รับผิดชอบในส่วนของ Paragraphs 12 - 16
 <figure>
-    <img src="./media/???.jpg" width="200" height="200">
+    <img src="./media/Phongpanot.jpg" width="200" height="200">
 </figure>
 
 
