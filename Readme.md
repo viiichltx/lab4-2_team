@@ -28,7 +28,7 @@
 #### Username: ppatipat
 #### รับผิดชอบในส่วนของ Paragraphs 17 - 21
 <figure>
-    <img src="./media/Patipat.jpg" width="200" height="250">
+    <img src="./media/Patipat.jpg" width="200" height="200">
 </figure>
 
 
