@@ -32,7 +32,7 @@
 </figure>
 
 
-### ลำดับที่ 5 ??? Sec 3 Group 3
+### ลำดับที่ 5 อารยา สิงห์ถิ่น Sec3 Group 3
 #### Username: Araya
 #### รับผิดชอบในส่วนของ Paragraphs 22 - 26
 <figure>
