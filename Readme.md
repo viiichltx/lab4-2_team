@@ -24,11 +24,11 @@
 </figure>
 
 
-### ลำดับที่ 4 ??? Sec 3 Group 3
-#### Username: ???
+### ลำดับที่ 4 นายปฏิพัทธ์ พันธุ์ใหม่ Sec 3 Group 3
+#### Username: ppatipat
 #### รับผิดชอบในส่วนของ Paragraphs 17 - 21
 <figure>
-    <img src="./media/???.jpg" width="200" height="200">
+    <img src="./media/Patipat.jpg" width="200" height="250">
 </figure>
 
 
