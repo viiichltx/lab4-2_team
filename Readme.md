@@ -25,7 +25,7 @@
 
 
 ### ลำดับที่ 4 นายปฏิพัทธ์ พันธุ์ใหม่ Sec 3 Group 3
-#### Username: ppatipat
+#### Username: patipat
 #### รับผิดชอบในส่วนของ Paragraphs 17 - 21
 <figure>
     <img src="./media/Patipat.jpg" width="200" height="200">
@@ -33,6 +33,13 @@
 
 
 ### ลำดับที่ 5 ??? Sec 3 Group 3
+#### Username: Araya
+#### รับผิดชอบในส่วนของ Paragraphs 22 - 26
+<figure>
+    <img src="./media/???.jpg" width="200" height="200">
+</figure>
+
+### ลำดับที่ 6 ??? Sec 3 Group 3
 #### Username: ???
 #### รับผิดชอบในส่วนของ Paragraphs 22 - 26
 <figure>
