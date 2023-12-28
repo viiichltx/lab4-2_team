@@ -43,7 +43,7 @@
 #### Username: Wisaitas12
 #### รับผิดชอบในส่วนของ Paragraphs 22 - 26
 <figure>
-    <img src="./media/???.jpg" width="200" height="200">
+    <img src="./media/wisaitas.jpg" width="200" height="200">
 </figure>
 
 
