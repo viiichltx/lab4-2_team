@@ -39,8 +39,8 @@
     <img src="./media/ibmr.jpg" width="200" height="200">
 </figure>
 
-### ลำดับที่ 6 ??? Sec 3 Group 3
-#### Username: ???
+### ลำดับที่ 6 วิสัยทัศน์ อินทร์เพชร Sec 3 Group 3
+#### Username: Wisaitas12
 #### รับผิดชอบในส่วนของ Paragraphs 22 - 26
 <figure>
     <img src="./media/???.jpg" width="200" height="200">
